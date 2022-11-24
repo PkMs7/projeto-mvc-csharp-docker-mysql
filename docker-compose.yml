@@ -20,7 +20,7 @@ services:
       Password: "admin"
       Database: "contatosdb"
     ports: 
-      - "8080:80"
+      - "8090:80"
 networks: 
   minha-rede:
     driver: bridge
