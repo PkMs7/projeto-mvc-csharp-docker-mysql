@@ -11,7 +11,7 @@ services:
       - /data/mysql-C:/var/lib/mysql
     networks:
       - minha-rede
-  contacts-app:
+  contato-app:
     build: .
     environment:
       DbServer: "mysqlsrv"
