@@ -10,8 +10,8 @@ using exemploAPI2.Context;
 namespace exemploAPI2.Migrations
 {
     [DbContext(typeof(AgendaContext))]
-    [Migration("20221124003256_{nomeDaMigration}")]
-    partial class nomeDaMigration
+    [Migration("20221124010958_BancoTeste")]
+    partial class BancoTeste
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

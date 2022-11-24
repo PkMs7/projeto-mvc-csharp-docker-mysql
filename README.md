@@ -42,5 +42,3 @@
 - **Passo 2:** Crie sua **VIEW** da página a ser exibida, na qual você referenciou sua controller
 - **Passo 3:** Repetir os passos acima de acordo com o CRUD necessário para cada página
 - **Obs.:** Cada página a ser criada é feita com uma pasta separada, onde tudo ali será referenciado com sua devida controller
-
-Para conhecer uma API em .NET <a href="https://github.com/PkMs7/introducao-API-dotnetCSharp" target="_blank">clique aqui</a>.

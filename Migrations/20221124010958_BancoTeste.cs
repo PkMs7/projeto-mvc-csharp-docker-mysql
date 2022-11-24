@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace exemploAPI2.Migrations
 {
-    public partial class nomeDaMigration : Migration
+    public partial class BancoTeste : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
